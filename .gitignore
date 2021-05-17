@@ -1,0 +1,9 @@
+# 所有本地的文档
+*.doc
+*.docx
+*.pptx
+*.ppt
+*.pdf
+
+# macOS
+_DS_STORE
