@@ -4,6 +4,7 @@
 *.pptx
 *.ppt
 *.pdf
+*.zip
 
 # macOS
 _DS_STORE
